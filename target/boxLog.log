@@ -1,0 +1,16 @@
+2018-03-28 16:31:35.677  INFO 11500 --- [main] edu.nefu.webapp.APIApplication           : Starting APIApplication v1.0-SNAPSHOT on DESKTOP-7JBOU7D with PID 11500 (D:\code\product\LiuCong\target\LiuCong-1.0-SNAPSHOT.jar started by Jiaxu_Zou in D:\code\product\LiuCong\target)
+2018-03-28 16:31:35.681  INFO 11500 --- [main] edu.nefu.webapp.APIApplication           : No active profile set, falling back to default profiles: default
+2018-03-28 16:31:35.773  INFO 11500 --- [main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b37e0d2: startup date [Wed Mar 28 16:31:35 CST 2018]; root of context hierarchy
+2018-03-28 16:31:38.757  INFO 11500 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8081 (http)
+2018-03-28 16:31:38.775  INFO 11500 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-03-28 16:31:38.778  INFO 11500 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.20
+2018-03-28 16:31:38.970  INFO 11500 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-03-28 16:31:38.974  INFO 11500 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3204 ms
+2018-03-28 16:31:39.403  INFO 11500 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2018-03-28 16:31:39.412  INFO 11500 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'metricsFilter' to: [/*]
+2018-03-28 16:31:39.413  INFO 11500 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-03-28 16:31:39.419  INFO 11500 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-03-28 16:31:39.421  INFO 11500 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-03-28 16:31:39.422  INFO 11500 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-03-28 16:31:39.425  INFO 11500 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2018-03-28 16:31:39.426  INFO 11500 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'applicationContextIdFilter' to: [/*]
